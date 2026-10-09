@@ -1,0 +1,6 @@
+info:
+  name: create 15
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/shipping-backend-2/15
